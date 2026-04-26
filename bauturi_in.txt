@@ -1,0 +1,5 @@
+4
+Apa_Plata 500 8.0 sticla 0
+Bere_Artizanala 330 15.0 doza 1
+Coca_Cola 500 10.0 palastic 0
+Vin_Rosu 150 22.0 sticla 1
